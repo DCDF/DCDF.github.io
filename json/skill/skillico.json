@@ -29,104 +29,116 @@
         "w": 28,
         "h": 28
     },
-    "gedang.png": {
+    "dunfu.png": {
         "x": 56,
         "y": 28,
         "w": 28,
         "h": 28
     },
-    "guishenzhen.png": {
+    "gedang.png": {
         "x": 0,
+        "y": 56,
+        "w": 28,
+        "h": 28
+    },
+    "guishenzhen.png": {
+        "x": 28,
         "y": 56,
         "w": 28,
         "h": 28
     },
     "guiyinzhu.png": {
-        "x": 28,
+        "x": 56,
         "y": 56,
         "w": 28,
         "h": 28
     },
     "guizhan.png": {
-        "x": 56,
-        "y": 56,
+        "x": 84,
+        "y": 0,
         "w": 28,
         "h": 28
     },
     "houtiao.png": {
         "x": 84,
-        "y": 0,
+        "y": 28,
         "w": 28,
         "h": 28
     },
     "houtiaozhan.png": {
         "x": 84,
-        "y": 28,
-        "w": 28,
-        "h": 28
-    },
-    "bengshan.png": {
-        "x": 84,
         "y": 56,
         "w": 28,
         "h": 28
     },
-    "mubei.png": {
+    "bengshan.png": {
         "x": 0,
+        "y": 84,
+        "w": 28,
+        "h": 28
+    },
+    "mubei.png": {
+        "x": 28,
         "y": 84,
         "w": 28,
         "h": 28
     },
     "nuqi.png": {
-        "x": 28,
-        "y": 84,
-        "w": 28,
-        "h": 28
-    },
-    "pojun.png": {
         "x": 56,
         "y": 84,
         "w": 28,
         "h": 28
     },
-    "pugong.png": {
+    "pojun.png": {
         "x": 84,
         "y": 84,
         "w": 28,
         "h": 28
     },
-    "sanduan.png": {
+    "pugong.png": {
         "x": 112,
         "y": 0,
         "w": 28,
         "h": 28
     },
-    "shangtiao.png": {
+    "sanduan.png": {
         "x": 112,
         "y": 28,
         "w": 28,
         "h": 28
     },
-    "shizi.png": {
+    "shangtiao.png": {
         "x": 112,
         "y": 56,
         "w": 28,
         "h": 28
     },
-    "tiaoyue.png": {
+    "shizi.png": {
         "x": 112,
         "y": 84,
         "w": 28,
         "h": 28
     },
-    "yinguang.png": {
+    "sikang.png": {
         "x": 0,
         "y": 112,
         "w": 28,
         "h": 28
     },
-    "zhuatou.png": {
+    "tiaoyue.png": {
         "x": 28,
+        "y": 112,
+        "w": 28,
+        "h": 28
+    },
+    "yinguang.png": {
+        "x": 56,
+        "y": 112,
+        "w": 28,
+        "h": 28
+    },
+    "zhuatou.png": {
+        "x": 84,
         "y": 112,
         "w": 28,
         "h": 28
